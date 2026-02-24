@@ -17,3 +17,9 @@ HOW TO USE:
 3. Map **Virtual Pin V7** to a Button (Switch mode) in the Blynk App.
 4. Map **Virtual Pin V20** to a Gauge (0-100) for Food Level.
 5. Upload the code to your ESP8266.
+
+Project Demonstration:
+Watch as the system authenticates a pet via RFID and dispenses food automatically.
+
+https://github.com/user-attachments/assets/83997b5b-cc2f-4b8c-88ba-4c7363b9ed2c
+
